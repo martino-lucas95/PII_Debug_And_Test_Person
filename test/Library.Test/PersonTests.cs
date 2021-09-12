@@ -13,7 +13,7 @@ namespace Tests
         }
 
         [Test]
-        public void Test1() // Cambiá el nombre para indicar qué estás probando
+        public void TestValidCI() // Cambiá el nombre para indicar qué estás probando
         {
             // Insertá tu código  de pruebaaquí
         }

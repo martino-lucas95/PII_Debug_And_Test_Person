@@ -32,13 +32,6 @@ namespace Tests
         }
 
         [Test]
-        public void IDNotEmpty() 
-        {
-            person.ID = "";
-            Assert.IsNotEmpty(person.ID);
-        }
-
-        [Test]
         public void CorrectLastIDDigit()
         {   
             person.ID = "46587618";
